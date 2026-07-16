@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Getekende avatar van Charlotte">
+  <defs>
+    <clipPath id="ronde-crop">
+      <circle cx="100" cy="100" r="100"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#ronde-crop)">
+    <!-- achtergrond -->
+    <rect x="0" y="0" width="200" height="200" fill="#dfe6d6"/>
+    <circle cx="100" cy="90" r="95" fill="#eef1e6"/>
+
+    <!-- schouders / kleding -->
+    <path d="M28 200 C28 153 61 137 100 137 C139 137 172 153 172 200 Z" fill="#6f8763"/>
+    <path d="M28 200 C28 158 53 141 77 138 L84 156 C84 156 92 166 100 166 C108 166 116 156 116 156 L123 138 C147 141 172 158 172 200 Z" fill="#4f6647"/>
+
+    <!-- nek -->
+    <rect x="86" y="116" width="28" height="30" rx="10" fill="#e7b98d"/>
+
+    <!-- hoofd -->
+    <ellipse cx="100" cy="90" rx="45" ry="48" fill="#f0c79a"/>
+
+    <!-- oren -->
+    <circle cx="55" cy="94" r="7.5" fill="#f0c79a"/>
+    <circle cx="145" cy="94" r="7.5" fill="#f0c79a"/>
+
+    <!-- haar achter, lang en golvend -->
+    <path d="M54 66 C46 110 44 150 58 176 C64 168 68 150 66 128 C70 150 76 164 82 168 L80 128 C68 112 62 90 62 68 Z" fill="#3b2a1f"/>
+    <path d="M146 66 C154 110 156 150 142 176 C136 168 132 150 134 128 C130 150 124 164 118 168 L120 128 C132 112 138 90 138 68 Z" fill="#3b2a1f"/>
+
+    <!-- haar boven / kapsel met middenscheiding -->
+    <path d="M100 32 C132 32 150 54 149 80 C149 90 146 98 141 102 C142 84 136 66 122 58 C126 68 122 76 116 76 C110 76 108 68 108 60 C104 56 100 55 100 55 C100 55 96 56 92 60 C92 68 90 76 84 76 C78 76 74 68 78 58 C64 66 58 84 59 102 C54 98 51 90 51 80 C50 54 68 32 100 32 Z" fill="#4a3527"/>
+
+    <!-- wenkbrauwen -->
+    <path d="M73 80 C78 76 87 76 92 79" fill="none" stroke="#3b2a1f" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M108 79 C113 76 122 76 127 80" fill="none" stroke="#3b2a1f" stroke-width="3.2" stroke-linecap="round"/>
+
+    <!-- ogen -->
+    <path d="M77 91 C80 88 87 88 90 91" fill="none" stroke="#2b2e28" stroke-width="3" stroke-linecap="round"/>
+    <path d="M110 91 C113 88 120 88 123 91" fill="none" stroke="#2b2e28" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="83.5" cy="95" r="3.6" fill="#2b2e28"/>
+    <circle cx="116.5" cy="95" r="3.6" fill="#2b2e28"/>
+
+    <!-- blush -->
+    <ellipse cx="71" cy="110" rx="9" ry="5.5" fill="#e0895f" opacity="0.4"/>
+    <ellipse cx="129" cy="110" rx="9" ry="5.5" fill="#e0895f" opacity="0.4"/>
+
+    <!-- neus -->
+    <path d="M99 96 C97 102 96 106 99 108 C101 109 103 108 103 106" fill="none" stroke="#d99f6c" stroke-width="2.6" stroke-linecap="round"/>
+
+    <!-- mond -->
+    <path d="M84 118 C93 126 107 126 116 118" fill="none" stroke="#a8572f" stroke-width="3.4" stroke-linecap="round"/>
+
+    <!-- oorbellen -->
+    <circle cx="55" cy="104" r="3.2" fill="#4f6647"/>
+    <circle cx="145" cy="104" r="3.2" fill="#4f6647"/>
+  </g>
+
+  <!-- buitenrand -->
+  <circle cx="100" cy="100" r="98" fill="none" stroke="#e2ddce" stroke-width="4"/>
+</svg>
