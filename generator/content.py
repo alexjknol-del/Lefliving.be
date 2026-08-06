@@ -255,6 +255,11 @@ PARTNERS = [
         "url": "https://www.fluvius.be",
         "omschrijving": "Vlaamse netbeheerder met praktische informatie en tips over energieverbruik en energiezuinig wonen.",
     },
+        {
+                    "naam": "Meubelstoffeerderij Amsterdam",
+                    "url": "https://stoffeerderij-struik.nl/meubelstoffeerderij-amsterdam/",
+                    "omschrijving": "Meubelstoffeerderij in Amsterdam voor het herstofferen van banken, stoelen en ander meubilair.",
+        },
 ]
 
 FAQ_ITEMS = [
