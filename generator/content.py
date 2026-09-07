@@ -255,11 +255,41 @@ PARTNERS = [
         "url": "https://www.fluvius.be",
         "omschrijving": "Vlaamse netbeheerder met praktische informatie en tips over energieverbruik en energiezuinig wonen.",
     },
-        {
-                    "naam": "Meubelstoffeerderij Amsterdam",
-                    "url": "https://stoffeerderij-struik.nl/meubelstoffeerderij-amsterdam/",
-                    "omschrijving": "Meubelstoffeerderij in Amsterdam voor het herstofferen van banken, stoelen en ander meubilair.",
-        },
+    {
+        "naam": "Meubelstoffeerderij Amsterdam",
+        "url": "https://stoffeerderij-struik.nl/meubelstoffeerderij-amsterdam/",
+        "omschrijving": "Meubelstoffeerderij in Amsterdam voor het herstofferen van banken, stoelen en ander meubilair.",
+    },
+    {
+        "naam": "Z profielen",
+        "url": "https://www.cf-kunststofprofielen.nl/profielen/z-profielen",
+        "omschrijving": "Kunststof Z-profielen voor het afwerken van platen en panelen, bijvoorbeeld bij verbouwingen en klussen in en om het huis.",
+    },
+    {
+        "naam": "kettingtakels",
+        "url": "https://demag.nl/producten/hijsunits/kettingtakels/",
+        "omschrijving": "Demag levert kettingtakels voor het hijsen en verplaatsen van zware lasten, geschikt voor industriele en logistieke toepassingen.",
+    },
+    {
+        "naam": "bovenloopkranen",
+        "url": "https://www.cmakcranes.nl/bovenloopkranen/",
+        "omschrijving": "CMAK Cranes is gespecialiseerd in bovenloopkranen voor efficient en veilig hijswerk in bedrijfshallen.",
+    },
+    {
+        "naam": "Sleutelhangers.be",
+        "url": "https://www.sleutelhangers.be/",
+        "omschrijving": "Belgische webshop gespecialiseerd in het bedrukken en op maat maken van sleutelhangers voor promotionele doeleinden.",
+    },
+    {
+        "naam": "prix ferraille",
+        "url": "https://prixferraille.be/",
+        "omschrijving": "Prix Ferraille publiceert dagelijks bijgewerkte schrootprijzen voor koper, aluminium en ijzer en regelt de ophaling in heel België.",
+    },
+    {
+        "naam": "Ferrailleur Mons",
+        "url": "https://www.recupmetaux.be/ferrailleur-mons/",
+        "omschrijving": "Recup Métaux koopt schroot en oude metalen op in de regio Bergen (Mons) en haalt ze op bij particulieren en bedrijven.",
+    },
 ]
 
 FAQ_ITEMS = [
