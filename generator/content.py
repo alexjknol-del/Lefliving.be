@@ -290,6 +290,11 @@ PARTNERS = [
         "url": "https://www.recupmetaux.be/ferrailleur-mons/",
         "omschrijving": "Recup Métaux koopt schroot en oude metalen op in de regio Bergen (Mons) en haalt ze op bij particulieren en bedrijven.",
     },
+    {
+        "naam": "9altitudes",
+        "url": "https://9altitudes.com/be",
+        "omschrijving": "9altitudes begeleidt bedrijven bij digitalisering, met software en implementatie rond ERP, CRM en productbeheer.",
+    },
 ]
 
 FAQ_ITEMS = [
