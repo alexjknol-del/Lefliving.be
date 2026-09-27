@@ -3,6 +3,38 @@
 
 ARTICLES = [
     {
+        "slug": "winterklaar-dakcontrole-najaar",
+        "title": "Het huis winterklaar maken: de dakcontrole in het najaar",
+        "excerpt": "Wie in het najaar het dak laat nakijken, voorkomt dat een klein gebrek in de winter een lek wordt.",
+        "date_display": "27 september 2026",
+        "date_iso": "2026-09-27",
+        "icon": "🍂",
+        "meta_description": "Waarom het najaar het beste moment is voor een dakcontrole, welke punten aandacht vragen en wat een eigenaar zelf kan doen om het huis winterklaar te maken.",
+        "body": """
+<p>Wie in het najaar het dak laat nakijken, voorkomt dat een klein gebrek in de winter een lek wordt.</p>
+
+<h2>Waarom het najaar</h2>
+<p>In de herfst krijgt een dak het zwaar te verduren. Bladeren vallen in de goten, de eerste stormen trekken aan pannen en randen, en de regen komt vaker en langer. Een klein gebrek dat in de zomer geen kwaad kon, wordt in november een lek. Een controle in september of oktober geeft de tijd om te herstellen voor de winter echt begint.</p>
+
+<h2>De goten</h2>
+<p>De goten zijn het eerste werk van het najaar. Een goot die vol blad zit, loopt over, en water dat over de rand loopt, komt tegen de gevel terecht. Het beste moment om de goten leeg te maken, is na de bladval, als de bomen kaal zijn. Wie veel bomen rond het huis heeft, doet dat soms twee keer. Een bladvanger bovenaan de regenpijp voorkomt dat de afvoer verstopt.</p>
+
+<h2>Pannen, nok en loodwerk</h2>
+<p>Vanaf de grond is met een verrekijker al veel te zien: pannen die verschoven zijn of gebroken, nokvorsten waarvan de mortel ontbreekt, loodslabben die opstaan. Wie niet zeker is, laat een dakwerker kijken. Zelf op het dak klimmen is geen goed idee, zeker niet op een nat of bemost dak.</p>
+<p>Mos op de pannen houdt vocht vast en kan bij vorst het oppervlak van de pan beschadigen. Mos verwijderen gebeurt best met de hand of met een zachte borstel, en niet met een hogedrukreiniger, die de toplaag van de pan wegspuit.</p>
+
+<h2>Het platte dak</h2>
+<p>Een plat dak op een aanbouw of garage verdient in het najaar speciale aandacht. De afvoeren moeten vrij zijn, want een verstopte afvoer laat het dak vollopen. Plassen die dagen blijven staan, wijzen op een afschot dat niet klopt. Blazen of scheuren in de roofing zijn signalen dat de dakbedekking het einde van haar leven nadert.</p>
+
+<h2>Periodiek onderhoud</h2>
+<p>Wie het dak niet elk jaar zelf wil nalopen, kan het onderhoud uitbesteden. Een dakwerker controleert dan in een ronde de pannen, de nok, het loodwerk, de goten en de afvoeren, en herstelt kleine gebreken meteen. Wat zo'n onderhoudsbeurt inhoudt, staat beschreven bij <a href="https://dendekkerdakwerken.be/dakonderhoud/">Den Dekker Dakwerken</a>.</p>
+
+<h2>Binnen kijken</h2>
+<p>Een dakcontrole begint niet alleen buiten. Op zolder is te zien of er ergens daglicht door het dak valt, of er vochtplekken op het hout zitten en of de isolatie nog droog en op zijn plaats ligt. Een muffe geur op zolder wijst op vocht dat niet weg kan.</p>
+<p>In Peer en de rest van Noord-Limburg werkt Den Dekker met een dakinspectie waarbij foto's en video laten zien hoe het dak erbij ligt, zodat een eigenaar weet wat er voor de winter moet gebeuren. Meer op <a href="https://dendekkerdakwerken.be/dakwerken-peer/">dendekkerdakwerken.be</a>.</p>
+""",
+    },
+    {
         "slug": "kleine-ruimtes-optimaal-inrichten",
         "title": "Kleine ruimtes optimaal inrichten: tips voor een groter gevoel",
         "excerpt": "Weinig vierkante meters hoeft geen beperking te zijn. Met de juiste keuzes in kleur, meubels en indeling voelt een kleine ruimte meteen ruimer aan.",
