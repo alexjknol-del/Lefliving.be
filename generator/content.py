@@ -3,6 +3,52 @@
 
 ARTICLES = [
     {
+        "slug": "zijden-boeketten-in-huis-wat-ze-doen-en-waar-ze-staan",
+        "title": "Zijden boeketten in huis: wat ze doen en waar ze het best staan",
+        "excerpt": "Een zijden boeket geeft kleur in huis zonder water, snoeischaar of verwelkte blaadjes. Waar het tot zijn recht komt en waar het beter niet staat.",
+        "date_display": "16 juli 2026",
+        "date_iso": "2026-07-16",
+        "icon": "🌸",
+        "meta_description": "Zijden boeketten in huis: het verschil met vroeger, de beste plekken in de woning, kleuren kiezen bij het interieur en een boeket mooi houden.",
+        "body": """
+<p>Verse bloemen brengen leven in een kamer, maar houden het zelden langer dan een week vol. Wie geen vaste afspraak met de bloemist heeft, staat vaak naar een lege vaas te kijken. Een zijden boeket lost dat op: de kleur blijft, het onderhoud verdwijnt.</p>
+<h2>Niet meer het plastic van vroeger</h2>
+<p>Bij kunstbloemen denken veel mensen nog aan harde blaadjes en felle kleuren. Goede zijden bloemen zijn daar ver van verwijderd. De bloemblaadjes zijn zacht, de kleuren lopen natuurlijk in elkaar over en de stelen zijn buigzaam, zodat een boeket in elke vaas goed valt. Op een paar meter afstand is het verschil met echte bloemen nauwelijks te zien.</p>
+<h2>De beste plekken in huis</h2>
+<ul>
+<li>De eettafel, met een laag boeket dat het zicht op elkaar niet wegneemt.</li>
+<li>De hal, als eerste indruk bij het binnenkomen.</li>
+<li>Een dressoir of vensterbank, samen met een kaars of een stapel boeken.</li>
+<li>De badkamer of een donkere hoek, waar echte bloemen het snel opgeven.</li>
+</ul>
+<p>Volle zon is wel af te raden. Na maanden achter glas kunnen de kleuren iets verbleken.</p>
+<h2>Kleuren kiezen bij het interieur</h2>
+<p>In een interieur met hout, linnen en aardetinten passen wit, crème en zacht groen. Een strakke, lichte woning verdraagt meer kleur, zoals roze of terracotta, zolang die kleur ergens anders terugkomt in een kussen of een plaid. Zo oogt het boeket als een deel van de kamer en niet als een losse toevoeging.</p>
+<h2>Waar te kijken</h2>
+<p>Een ruime keuze aan zijden boeketten in verschillende stijlen en kleuren staat op <a href="https://bloomzy.nl/collectie/zijden-boeketten">https://bloomzy.nl/collectie/zijden-boeketten</a>. <a href="https://bloomzy.nl/">Bloomzy</a> stelt de boeketten zelf samen, zodat ze meteen in een vaas kunnen.</p>
+""",
+    },
+    {
+        "slug": "kunstboeket-als-cadeau-een-attentie-die-blijft",
+        "title": "Een kunstboeket als cadeau: een attentie die blijft",
+        "excerpt": "Bloemen meebrengen is een vaste gewoonte, maar na een week liggen ze bij het gft. Een kunstboeket is een attentie die maanden op tafel staat.",
+        "date_display": "20 augustus 2026",
+        "date_iso": "2026-08-20",
+        "icon": "🎁",
+        "meta_description": "Een kunstboeket als cadeau: wanneer het een goede keuze is, welk formaat en welke kleuren passen en waar op te letten bij het geven.",
+        "body": """
+<p>Een bos bloemen is het klassieke cadeau bij een verjaardag, een etentje of een nieuwe woning. Mooi gebaar, maar de gastvrouw moet midden in de drukte op zoek naar een vaas en na een week is het boeket uitgebloeid. Een kunstboeket is een alternatief dat steeds vaker wordt gekozen.</p>
+<h2>Wanneer een kunstboeket goed past</h2>
+<p>Bij een housewarming is een boeket dat blijft een mooie herinnering aan de nieuwe start. Ook voor iemand die vaak op reis is, voor een kantoor of voor een oudere ouder die zelf geen bloemen meer verzorgt, is een kunstboeket een praktische keuze. Er hoeft geen water ververst te worden en er vallen geen blaadjes op de vloer.</p>
+<h2>Formaat en kleur</h2>
+<p>Een middelgroot boeket past op bijna elke tafel of kast. Voor een klein appartement is een compact boeketje in een smalle vaas vaak handiger dan een grote bos. Wie de smaak van de ontvanger niet goed kent, zit met wit, crème en groen zelden fout. Zachtroze en lila zijn een veilige keuze voor wie wat meer kleur wil.</p>
+<h2>Samen met een vaas</h2>
+<p>Een kunstboeket wordt vaak samen met een passende vaas gegeven. Dan is het cadeau compleet en hoeft de ontvanger niets meer te regelen. Het boeket staat meteen op de goede plek.</p>
+<h2>Waar te kiezen</h2>
+<p>Kunstboeketten in verschillende maten, stijlen en kleuren staan bij elkaar op <a href="https://bloomzy.nl/collectie/kunstboeketten">https://bloomzy.nl/collectie/kunstboeketten</a>. Bij <a href="https://bloomzy.nl/">Bloomzy.nl</a> zijn ook vazen te vinden die bij de boeketten passen.</p>
+""",
+    },
+    {
         "slug": 'dienbladen-kiezen-materiaal-formaat-en-gebruik',
         "title": 'Dienbladen kiezen: materiaal, formaat en meer dan alleen serveren',
         "excerpt": 'Een dienblad is handig om te serveren, maar ook om op tafel of in de kast rust te brengen. Welk materiaal en formaat bij welk gebruik past.',
