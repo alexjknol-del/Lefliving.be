@@ -3,6 +3,27 @@
 
 ARTICLES = [
     {
+        "slug": 'dienbladen-kiezen-materiaal-formaat-en-gebruik',
+        "title": 'Dienbladen kiezen: materiaal, formaat en meer dan alleen serveren',
+        "excerpt": 'Een dienblad is handig om te serveren, maar ook om op tafel of in de kast rust te brengen. Welk materiaal en formaat bij welk gebruik past.',
+        "date_display": "26 september 2026",
+        "date_iso": "2026-09-26",
+        "icon": "🍽️",
+        "meta_description": 'Een dienblad is handig om te serveren, maar ook om te decoreren en op te ruimen. Welk materiaal en formaat bij welk gebruik past.',
+        "body": """
+<p>Een dienblad lijkt een eenvoudig voorwerp, maar wie er één in huis heeft, gebruikt het vaker dan verwacht. Om koffie en thee naar de woonkamer te brengen, om op het terras te serveren of om losse spullen op tafel bij elkaar te houden. Het juiste materiaal en formaat maken het verschil tussen een blad dat in de kast verdwijnt en een blad dat dagelijks op tafel staat.</p>
+<h2>Hout, marmer of bamboe</h2>
+<p>Houten dienbladen, bijvoorbeeld van acaciahout, zijn licht, stevig en geven een warme uitstraling. Ze passen goed in een interieur met natuurlijke materialen. Marmeren dienbladen zijn zwaarder en blijven daardoor stevig liggen, wat ze geschikt maakt als decoratieve basis voor kaarsen of een vaas. Bamboe is licht en sterk, en daardoor handig voor dagelijks gebruik.</p>
+<h2>Rond, rechthoekig of ovaal</h2>
+<p>Een rechthoekig blad met handvaten is het praktischst om te serveren: het draagt makkelijk en er past veel op. Een rond blad oogt zachter en werkt goed op een salontafel of als onderlegger voor een fruitschaal. Ovale serveerschalen en draaibare bladen zijn handig bij een gedeelde maaltijd, waarbij iedereen zelf opschept.</p>
+<h2>Het juiste formaat</h2>
+<p>Meet voor aankoop de plek waar het blad meestal komt te staan. Een groot dienblad op een kleine salontafel neemt alle ruimte in, een te klein blad op een eettafel valt weg. Wie wil serveren voor vier personen, heeft minstens een middelgroot blad nodig. Voor decoratie is een kleiner blad vaak mooier.</p>
+<h2>Meer dan serveren</h2>
+<p>Een dienblad brengt rust op een volle tafel of kast. Afstandsbedieningen, een kaars en een plantje op één blad ogen opgeruimd in plaats van rommelig. In de badkamer houdt een klein blad zeep en flesjes bij elkaar, in de hal is het een vaste plek voor sleutels.</p>
+<p>Wie een blad zoekt voor beide doelen, heeft keuze genoeg. <a href="https://salinshome.be/dienbladen/">Dienbladen</a> van Salins Home zijn er in acaciahout, marmer en bamboe, rond, rechthoekig en ovaal, in klein, middel en groot formaat.</p>
+""",
+    },
+    {
         "slug": "winterklaar-dakcontrole-najaar",
         "title": "Het huis winterklaar maken: de dakcontrole in het najaar",
         "excerpt": "Wie in het najaar het dak laat nakijken, voorkomt dat een klein gebrek in de winter een lek wordt.",
