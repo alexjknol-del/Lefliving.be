@@ -394,6 +394,11 @@ PARTNERS = [
         "url": "https://9altitudes.com/be",
         "omschrijving": "9altitudes begeleidt bedrijven bij digitalisering, met software en implementatie rond ERP, CRM en productbeheer.",
     },
+    {
+        "naam": "Keuken met kookeiland",
+        "url": "https://dekeukenbouwer.be/keukeneiland/",
+        "omschrijving": "De Keukenbouwer ontwerpt en bouwt keukens op maat, met showrooms in België.",
+    },
 ]
 
 FAQ_ITEMS = [
